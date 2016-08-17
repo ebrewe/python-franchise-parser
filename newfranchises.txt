@@ -1,0 +1,286 @@
+ENGLISH: 
+
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Tatamagouche, NS</strong><br />
+            2,037 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Musquodoboiut Harbour, NS</strong><br />
+            2,139 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Pictou, NS</strong><br />
+            3,437 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Antigonish, NS</strong><br />
+            4,524 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>New Glasgow, NS</strong><br />
+            9,562 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Port Hawkesbury, NS</strong><br />
+            3,366 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Vermilion, AB</strong><br />
+            4,545 / 10,000<br />
+            Gillian Piper/Sheila Fowler<br />
+            780-632-6909<br />
+            780-632-4047<br />
+            Box 867, Vegreville, AB, T9C 1R9<br />
+            <a href="gillian.piper@hrblock.ca / sfowler1@hughes.net" class="emil" data-emil-before="gillian.piper" data-emil-after="hrblock.ca / sfowler1">gillian.piper@hrblock.ca / sfowler1@hughes.net</a>
+          </div>
+        </div>
+----------
+
+----------
+<div class="container">
+        <div class="row franchise-table-row">
+          <div class="column text-right border-right">
+          <strong>City, Province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> of City / Metro Area<br>Owner's Name<br>Phone Number<br>Fax Number<br>Address for Inquiries<br>E-mail</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Vegreville, AB</strong><br />
+            5,750 / 15,000<br />
+            Gillian Piper/Sheila Fowler<br />
+            780-632-6909<br />
+            780-632-4047<br />
+            Box 867, Vegreville, AB, T9C 1R9<br />
+            <a href="gillian.piper@hrblock.ca / sfowler1@hughes.net" class="emil" data-emil-before="gillian.piper" data-emil-after="hrblock.ca / sfowler1">gillian.piper@hrblock.ca / sfowler1@hughes.net</a>
+          </div>
+        </div>
+----------
+
+
+FRENCH: 
+
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Tatamagouche, NS</strong><br />
+            2,037 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Musquodoboiut Harbour, NS</strong><br />
+            2,139 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Pictou, NS</strong><br />
+            3,437 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Antigonish, NS</strong><br />
+            4,524 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>New Glasgow, NS</strong><br />
+            9,562 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Port Hawkesbury, NS</strong><br />
+            3,366 / N/A<br />
+            Doug MacKay<br />
+            902-368-8233<br />
+            N/A<br />
+            PO Box 20011, Charlottetown, PE, C1A 9E3<br />
+            <a href="dmackay@hrblockpe.com" class="emil" data-emil-before="dmackay" data-emil-after="hrblockpe.com">dmackay@hrblockpe.com</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Vermilion, AB</strong><br />
+            4,545 / 10,000<br />
+            Gillian Piper/Sheila Fowler<br />
+            780-632-6909<br />
+            780-632-4047<br />
+            Box 867, Vegreville, AB, T9C 1R9<br />
+            <a href="gillian.piper@hrblock.ca / sfowler1@hughes.net" class="emil" data-emil-before="gillian.piper" data-emil-after="hrblock.ca / sfowler1">gillian.piper@hrblock.ca / sfowler1@hughes.net</a>
+          </div>
+        </div>
+----------
+
+----------
+  <div class="row franchise-table-row">
+            <div class="column text-right border-right">
+          <strong>Ville, province<br>Pop<span class="hide-in-mobile">ulation</span><span class="show-in-mobile">.</span> de Ville/Métro<br><span class="hide-in-mobile">nom du c</span><span class="show-in-mobile">C</span>oncessionnaire<br>Téléphone<br>Télécopieur<br>Adresse<br>Courriel</strong>
+          </div>
+          <div class="column border-left">
+            <strong>Vegreville, AB</strong><br />
+            5,750 / 15,000<br />
+            Gillian Piper/Sheila Fowler<br />
+            780-632-6909<br />
+            780-632-4047<br />
+            Box 867, Vegreville, AB, T9C 1R9<br />
+            <a href="gillian.piper@hrblock.ca / sfowler1@hughes.net" class="emil" data-emil-before="gillian.piper" data-emil-after="hrblock.ca / sfowler1">gillian.piper@hrblock.ca / sfowler1@hughes.net</a>
+          </div>
+        </div>
+----------
